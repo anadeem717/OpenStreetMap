@@ -11,6 +11,6 @@ This project is part of the UIC CS 251 course for Spring 2024 under the guidance
 - OpenStreetMap integration for geographic data
 
 ## Requirements
-- C++17 or higher
+- C++ compiler (g++)
 - OpenStreetMap data
 - I will be including other files soon
