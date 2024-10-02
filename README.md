@@ -12,5 +12,5 @@ This project is part of the UIC CS 251 course for Spring 2024 under the guidance
 
 ## Requirements
 - C++17 or higher
-- Graph libraries (if any additional libraries are used)
 - OpenStreetMap data
+- I will be including other files soon
